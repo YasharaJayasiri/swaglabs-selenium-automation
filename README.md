@@ -2,7 +2,7 @@
 
 #Project Overview
 
-This project demonstrates a 'Selenium WebDriver automation' of the SwagLabs e-commerce website.  
+This project demonstrates a **Selenium WebDriver automation** of the SwagLabs e-commerce website.  
 It automates the full user journey including both positive and negative paths: login, product selection, cart management, checkout, and order completion.  
 The tests are written in Java using TestNG, managed with Maven in IntelliJ IDEA.  
 
